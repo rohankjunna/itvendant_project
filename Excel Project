@@ -1,1 +1,47 @@
+# Supermarket Sales Analysis – README
+
+## Project Overview
+
+This project analyzes supermarket sales data to understand customer behavior, sales trends, and business performance. The dataset includes transaction details such as branch, city, product line, customer type, gender, payment method, ratings, and financial values.
+
+---
+
+## Dataset Summary
+
+* File: `supermarket_sales -.xlsx`
+* Sheet Used: `supermarket_sales -`
+* Records: 95
+* Key Fields: Branch, City, Product Line, Customer Type, Gender, Payment, Date, Total, Rating
+
+---
+
+## Key Insights
+
+* Total Sales: **322,966.75**
+* Average Rating: **6.97 / 10**
+* Top Branch: **C**
+* Top City: **Naypyitaw**
+* Best Product Line: **Food and Beverages**
+* Most Used Payment: **E-wallet**
+* Dominant Gender: **Female**
+* Top Customer Type: **Member**
+* Best Sales Day: **Saturday**
+
+---
+
+## Business Questions Answered
+
+* Which branch performs best? → Branch C
+* Which city gives highest revenue? → Naypyitaw
+* Which product sells most? → Food and Beverages
+* Which payment mode is popular? → E-wallet
+* Who shops more? → Female, Members
+* Which day has highest sales? → Saturday
+* Are customers satisfied? → Moderate (Avg rating 6.97)
+
+---
+
+## Conclusion
+
+The supermarket performs best in Branch C and Naypyitaw, with Food and Beverages leading sales. Customers prefer E-wallet payments, and most shoppers are female members. Saturdays generate the highest sales. These insights can help improve marketing, staffing, and inventory planning.
 
