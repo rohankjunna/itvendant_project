@@ -1,0 +1,69 @@
+# Supermarket Billing System – Case Study (Compressed README)
+
+## Overview
+
+This project uses SQL to analyze supermarket data for better decisions in sales, inventory, discounts, and customer management.
+It tracks customers, products, categories, sales, sale items, and discounts.
+
+---
+
+## Objectives
+
+* Analyze customer spending patterns
+* Track product sales and inventory
+* Evaluate discounts and promotions
+* Compare category-wise performance
+* Find revenue trends and bottlenecks
+
+---
+
+## Tech & Tables
+
+**Tech:** SQL
+**Tables:** Customers_1, Products_1, Categories_1, Sales_1, SaleItems_1, Discounts_1
+
+---
+
+## Key Analysis
+
+* Top customers = high-value customers
+* Inactive customers (3 months no purchase) → target with offers
+* Avg transaction value → segment customers
+* Best-selling products → need frequent restocking
+* Low-stock products → restock immediately
+* Top categories → expand further
+* Last 6 months vs previous 6 months sales → trend analysis
+* Peak sales day → optimize staffing
+* Discounts usually increase sales
+* Poor discounted products → low demand, visibility, or season
+* Unsold products (3 months) → remove or clear stock
+* Food category performs best
+* Weekend sales higher than weekdays
+
+---
+
+## Key Insights
+
+* High-value customers drive revenue
+* Some customers need re-engagement
+* Fast-moving products need quick restocking
+* Discounts boost sales volume
+* Food category dominates
+* Weekends are peak sales days
+
+---
+
+## Business Actions
+
+* Loyalty programs for big spenders
+* Re-engagement offers for inactive users
+* Expand strong categories
+* Improve inventory planning
+* Weekend premium offers
+* Weekday discount strategy
+
+---
+
+## Conclusion
+
+SQL analysis converts raw supermarket data into useful insights to improve sales, inventory control, promotions, and customer satisfaction.
